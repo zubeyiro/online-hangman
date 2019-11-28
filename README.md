@@ -7,12 +7,12 @@ Clone this repository then run
 You can play game through terminal.
 
 ## Capabilities
-User can start a new game
-User can guess a character for an ongoing game
-User is being notified about game result
-User can resume game later
-User can list games played before
-User is being notified error happens on server
+- User can start a new game
+- User can guess a character for an ongoing game
+- User is being notified about game result
+- User can resume game later
+- User can list games played before
+- User is being notified error happens on server
 
 ## Testing
 Run;
